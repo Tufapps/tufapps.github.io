@@ -56,22 +56,18 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Tufan Meriç Uyguner"
+  bio    : "I like to make stuff"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://tufan.me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/tufanmeric"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/TufanMeric"
 
 footer:
   links:
