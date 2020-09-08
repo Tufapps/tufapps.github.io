@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We make games, apps and tools.
 twitter_username: tufapps
 github_username: tufapps
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
