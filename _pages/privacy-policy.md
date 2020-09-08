@@ -2,6 +2,7 @@
 permalink: /privacy-policy/
 title: "Privacy Policy"
 toc: true
+sidebar: "pages"
 ---
 
 Tufapps services (applications, games, websites) collect some data from its users.
